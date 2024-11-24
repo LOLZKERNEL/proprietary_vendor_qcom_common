@@ -7,7 +7,7 @@ soong_namespace {
         "hardware/mithorium-4.19/display-hal",
         "hardware/mithorium-4.19/display-hal/gralloc",
         "hardware/mithorium-4.19/display-hal/libdebug",
-        "hardware/qcom/wlan",
+        "hardware/qcom-caf/wlan",
         "vendor/qcom/common/vendor/adreno-5xx",
         "vendor/qcom/common/vendor/adreno-r",
         "vendor/qcom/common/vendor/adreno-s",
